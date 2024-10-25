@@ -1,1 +1,1 @@
-# bangflix-redis
+# bangflex-redis
